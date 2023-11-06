@@ -6,4 +6,4 @@ See https://bluehats.global and https://code.gouv.fr/en/bluehats.
 
 # License
 
-Release under the Creative Commons CC0 license.
+Creative Commons CC0 license.
