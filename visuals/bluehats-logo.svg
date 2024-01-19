@@ -2,19 +2,22 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="140.16528mm"
-   height="77.568085mm"
-   viewBox="0 0 140.16528 77.568085"
+   width="159.63841mm"
+   height="96.433189mm"
+   viewBox="0 0 159.63841 96.433189"
    version="1.1"
-   id="svg13750"
+   id="svg41912"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="bluehats-logo.svg"
+   inkscape:export-filename="/home/helene/Boulot/git/bluehats-visuals/visuals/bluehats-logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview13752"
+     id="namedview41914"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -23,84 +26,43 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
      inkscape:zoom="0.64052329"
-     inkscape:cx="50.739763"
-     inkscape:cy="361.42324"
+     inkscape:cx="-164.70908"
+     inkscape:cy="152.21929"
      inkscape:window-width="1850"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg13750" />
+     inkscape:current-layer="svg41912"
+     lock-margins="true" />
   <defs
-     id="defs13747" />
+     id="defs41909" />
   <g
-     id="g3920"
-     transform="matrix(0.41504655,0,0,0.41410229,7.5919641,6.2045538)"
-     inkscape:export-filename="/home/helene/Boulot/git/bluehats-visuals/visuals/bluehats-logo.png"
+     id="g1924"
+     transform="matrix(0.60277361,0,0,0.60140225,-77.86032,89.801373)"
+     inkscape:label="logo-1"
+     inkscape:export-filename="./bluehats-test-gris.png"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96">
     <g
-       id="g20-6"
-       inkscape:label="text"
-       transform="translate(-31.182037,-51.36691)">
-      <path
-         class="st0"
-         d="m 43.5,219.7 c -2.4,2.4 -6.3,3.9 -11,3.9 -5,0 -9,-1.2 -12.7,-5.9 v 5.4 H 13.2 V 158 h 6.6 v 25.3 c 3.7,-4.7 7.8,-5.8 12.7,-5.8 4.7,0 8.6,1.6 11,3.9 4.5,4.5 5.5,11.9 5.5,19.1 0,7.2 -1.1,14.6 -5.5,19.2 z M 31.1,183.4 c -9.9,0 -11.3,8.4 -11.3,17.2 0,8.8 1.5,17.2 11.3,17.2 9.8,0 11.2,-8.4 11.2,-17.2 0,-8.8 -1.4,-17.2 -11.2,-17.2 z"
-         id="path4-7"
-         style="fill:#000091;fill-opacity:1" />
-      <path
-         class="st0"
-         d="m 74.3,223.1 c -7.9,0 -11.4,-5.1 -11.4,-12 V 158 h 6.6 v 52.9 c 0,4.4 1.5,6.6 6,6.6 H 79 v 5.7 h -4.7 z"
-         id="path6-5"
-         style="fill:#000091;fill-opacity:1" />
-      <path
-         class="st0"
-         d="m 118.4,223.1 v -5 c -3.2,3.7 -7.7,5.6 -12.7,5.6 -4.8,0 -8.9,-1.5 -11.6,-4.2 -3.2,-3.1 -4.6,-7.4 -4.6,-12.6 V 178.2 H 96 v 27.7 c 0,8 4.2,12 11,12 6.8,0 11.2,-4.1 11.2,-12 v -27.7 h 6.6 v 45 h -6.4 z"
-         id="path8-3"
-         style="fill:#000091;fill-opacity:1" />
-      <path
-         class="st0"
-         d="m 145.4,202.3 c 0,9.9 4.6,15.5 13.3,15.5 5.2,0 8.2,-1.6 11.8,-5.1 l 4.5,3.9 c -4.6,4.6 -8.9,7 -16.5,7 -12,0 -19.7,-7.1 -19.7,-23 0,-14.6 7,-23 18.5,-23 11.7,0 18.5,8.3 18.5,21.9 v 2.9 h -30.4 z m 22.4,-12.4 c -1.9,-4.1 -5.7,-6.8 -10.5,-6.8 -4.8,0 -8.6,2.7 -10.5,6.8 -1.1,2.4 -1.2,3.8 -1.4,7.5 h 23.9 c -0.3,-3.7 -0.4,-5.1 -1.5,-7.5 z"
-         id="path10-5"
-         style="fill:#000091;fill-opacity:1" />
-      <path
-         class="st1"
-         d="m 219.7,223.1 v -27.3 c 0,-8.5 -4.3,-13.2 -12.2,-13.2 -7.9,0 -12.4,4.8 -12.4,13.2 v 27.3 h -4.7 V 158 h 4.7 v 26.2 c 3.3,-3.8 7.7,-5.8 13,-5.8 10.1,0 16.3,6.3 16.3,16.5 v 28.2 z"
-         id="path12-6"
-         style="fill:#417dc4;fill-opacity:1" />
-      <path
-         class="st1"
-         d="m 267.4,223.1 v -4.4 c -3.8,3.7 -7.2,4.9 -13.4,4.9 -6.5,0 -10.2,-1.1 -13,-4 -2,-2.1 -3.2,-5.3 -3.2,-8.6 0,-8 5.8,-12.7 15.4,-12.7 h 14.3 v -4.9 c 0,-7 -3.5,-10.8 -12.4,-10.8 -6.2,0 -9.4,1.6 -12.2,5.6 l -3.4,-2.9 c 3.7,-5.2 8.4,-6.8 15.5,-6.8 11.6,0 17.1,5.2 17.1,14.5 v 30.2 h -4.7 z m 0,-21 h -13.7 c -7.6,0 -11.2,3 -11.2,8.9 0,5.9 3.6,8.6 11.5,8.6 4,0 7.9,-0.4 11,-3.4 1.6,-1.6 2.5,-4.3 2.5,-8.4 v -5.7 z"
-         id="path14-2"
-         style="fill:#417dc4;fill-opacity:1" />
-      <path
-         class="st1"
-         d="m 301.2,223.1 c -7,0 -10.6,-4.8 -10.6,-11.5 v -29.1 h -6 V 179 h 6 v -14.1 h 4.7 V 179 h 10 v 3.5 h -10 v 29.2 c 0,4.6 2.1,7.3 6.8,7.3 h 3.2 v 4.1 z"
-         id="path16-9"
-         style="fill:#417dc4;fill-opacity:1" />
-      <path
-         class="st1"
-         d="m 332.7,223.6 c -7.7,0 -13.4,-2 -17.8,-6.3 l 3.2,-3.2 c 3.5,3.7 8.1,5.4 14.5,5.4 8.6,0 13.3,-3 13.3,-9 0,-4.6 -2.7,-6.9 -8.4,-7.4 l -7.3,-0.6 c -8.9,-0.7 -13.3,-4.7 -13.3,-11.5 0,-7.6 6.2,-12.5 15.8,-12.5 6,0 11.6,1.7 15.5,4.7 l -3.1,3.1 c -3.4,-2.5 -7.5,-3.8 -12.3,-3.8 -7.2,0 -11.2,3.1 -11.2,8.5 0,4.6 2.7,6.9 9,7.4 l 7.1,0.6 c 7.3,0.6 12.9,2.9 12.9,11.5 -0.2,8.1 -7.1,13.1 -17.9,13.1 z"
-         id="path18-1"
-         style="fill:#417dc4;fill-opacity:1" />
-    </g>
-    <g
-       id="g3304"
-       transform="matrix(1.1085925,0,0,1.1085925,-17.856715,8.337078)">
+       id="g3920"
+       transform="matrix(0.76197547,0,0,0.76197547,146.05914,-116.66335)"
+       inkscape:label="hats">
       <g
-         id="g4698"
-         inkscape:label="hat-3"
-         transform="translate(-35.630302,-59.172151)">
+         id="g3881-2"
+         style="display:inline"
+         inkscape:label="hat"
+         transform="translate(-35.630302,-59.560731)">
         <path
            class="fil0"
-           d="m 316.56986,93.172082 c 13.92512,2.58461 22.69277,7.236898 22.69277,12.406088 0,8.27075 -26.81872,15.50764 -59.31066,15.50764 -32.49191,0 -58.79492,-7.23689 -58.79492,-15.50764 0,-5.16919 8.76767,-9.821478 22.69279,-12.406088 17.01957,6.203035 45.38555,7.753818 61.37363,1.550759 -20.11405,2.06769 -42.29108,0.516931 -60.85789,-5.1692 l 3.61021,-21.193758 c 1.03148,-6.719979 5.15744,-11.889185 11.34639,-11.889185 h 41.25959 c 6.70468,0 10.83065,5.169206 11.86214,11.889185 z"
-           id="path2420-3-6-7"
-           style="display:inline;fill:#000091;fill-opacity:1;stroke-width:0.516333"
+           d="m 244.639,96.054146 c 21.82758,4.051354 35.57084,11.343804 35.57084,19.446504 0,12.96436 -42.03825,24.30817 -92.96924,24.30817 -50.93098,0 -92.16085,-11.34381 -92.16085,-24.30817 0,-8.1027 13.74329,-15.39515 35.57086,-19.446504 26.67813,9.723234 71.14171,12.154074 96.20296,2.430811 -31.52869,3.241083 -66.29111,0.810273 -95.39452,-8.102708 l 5.65898,-33.221145 c 1.61686,-10.533542 8.08428,-18.636255 17.78543,-18.636255 h 64.67426 c 10.50958,0 16.97701,8.102713 18.59387,18.636255 z"
+           id="path2420-3"
+           style="display:inline;fill:#000091;fill-opacity:1;stroke-width:0.80935"
            inkscape:label="fill" />
       </g>
       <g
@@ -115,17 +77,33 @@
            inkscape:label="fill" />
       </g>
       <g
-         id="g3881-2"
-         style="display:inline"
-         inkscape:label="hat"
-         transform="translate(-35.630302,-59.560731)">
+         id="g4698"
+         inkscape:label="hat-3"
+         transform="translate(-35.630302,-59.172151)">
         <path
            class="fil0"
-           d="m 244.639,96.054146 c 21.82758,4.051354 35.57084,11.343804 35.57084,19.446504 0,12.96436 -42.03825,24.30817 -92.96924,24.30817 -50.93098,0 -92.16085,-11.34381 -92.16085,-24.30817 0,-8.1027 13.74329,-15.39515 35.57086,-19.446504 26.67813,9.723234 71.14171,12.154074 96.20296,2.430811 -31.52869,3.241083 -66.29111,0.810273 -95.39452,-8.102708 l 5.65898,-33.221145 c 1.61686,-10.533542 8.08428,-18.636255 17.78543,-18.636255 h 64.67426 c 10.50958,0 16.97701,8.102713 18.59387,18.636255 z"
-           id="path2420-3"
-           style="display:inline;fill:#000091;fill-opacity:1;stroke-width:0.80935"
+           d="m 316.56986,93.172082 c 13.92512,2.58461 22.69277,7.236898 22.69277,12.406088 0,8.27075 -26.81872,15.50764 -59.31066,15.50764 -32.49191,0 -58.79492,-7.23689 -58.79492,-15.50764 0,-5.16919 8.76767,-9.821478 22.69279,-12.406088 17.01957,6.203035 45.38555,7.753818 61.37363,1.550759 -20.11405,2.06769 -42.29108,0.516931 -60.85789,-5.1692 l 3.61021,-21.193758 c 1.03148,-6.719979 5.15744,-11.889185 11.34639,-11.889185 h 41.25959 c 6.70468,0 10.83065,5.169206 11.86214,11.889185 z"
+           id="path2420-3-6-7"
+           style="display:inline;fill:#000091;fill-opacity:1;stroke-width:0.516333"
            inkscape:label="fill" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:59.3354px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.48338;stroke-miterlimit:4;stroke-dasharray:none"
+       x="140.82703"
+       y="-6.1736231"
+       id="text16903-0"
+       inkscape:label="text"
+       transform="scale(0.9988618,1.0011395)"><tspan
+         sodipodi:role="line"
+         id="tspan16901-4"
+         x="140.82703"
+         y="-6.1736231"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:1.48338"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000091;fill-opacity:1;stroke-width:1.48338"
+           id="tspan19453-4">blue</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#417dc4;fill-opacity:1;stroke-width:1.48338"
+           id="tspan20935-44">hats</tspan></tspan></text>
   </g>
 </svg>
