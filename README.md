@@ -10,4 +10,5 @@ Creative Commons CC0 license.
 
 ## Attributions
 
-- [hat by Nabilauzwa](https://thenounproject.com/icon/hat-1745047/) from Noun Project (CC BY 3.0)
+- [Hat by Nabilauzwa](https://thenounproject.com/icon/hat-1745047/) from Noun Project (CC BY 3.0)
+- [Party Hat by Smashicons](https://thenounproject.com/icon/party-hat-1095561/) from Noun Project (CC BY 3.0)
